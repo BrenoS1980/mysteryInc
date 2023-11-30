@@ -50,7 +50,7 @@
     "node": "^4.5 || 6.* || >= 7.*"
   },
   "dependencies": {
-    "ember-component-css": "^0.6.3",
-    "fixtable-ember": "^3.4.5"
+    "ember-component-css": "^0.7.5",
+    "fixtable-ember": "^4.0.0"
   }
 }
